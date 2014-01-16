@@ -11,16 +11,16 @@ Controller.js is an extremely simple data binding library, with an angularjs-lik
 
 ### Use
 ```
-    <div controller='myCtrl'>
-			<input model='name'><br>
-			Hello&nbsp;<span model='name'></span>!<br>
-		</div>
-		<script>
-      function myCtrl () {
-        this.name = 'Bob';
-      }
-      bind();
-    </script>
+<div controller='myCtrl'>
+  <input model='name'><br>
+  Hello&nbsp;<span model='name'></span>!<br>
+</div>
+<script>
+  function myCtrl () {
+    this.name = 'Bob';
+  }
+  bind();
+</script>
 ```
 
 ### Dependencies
