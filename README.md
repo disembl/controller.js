@@ -27,6 +27,6 @@ Controller.js is an extremely simple data binding library, with an angularjs-lik
 JQuery
 
 ### Goals
-*Remove JQuery dependency.
-*Support for more complicated model expressions
+* Remove JQuery dependency.
+* Support for more complicated model expressions
 
