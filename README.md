@@ -13,7 +13,7 @@ Controller.js is an extremely simple data binding library, with an angularjs-lik
 ```
 <div controller='myCtrl'>
   <input model='name'><br>
-  Hello&nbsp;<span model='name'></span>!<br>
+  Hello <span model='name'></span>!<br>
 </div>
 <script>
   function myCtrl () {
